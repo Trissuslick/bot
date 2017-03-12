@@ -1,1 +1,5 @@
 python-3.6.0
+telepot
+bs4
+requests
+html5lib
