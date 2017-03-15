@@ -1,1 +1,1 @@
-python telepot_bot.py
+python telepot_bot
