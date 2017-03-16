@@ -1,1 +1,1 @@
-python telepot_bot
+init: python telepot_bot
