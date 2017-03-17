@@ -1,2 +1,2 @@
-web: gunicorn runp-heroku:app
+web: gunicorn telepot1:app
 init: python telepot_bot
